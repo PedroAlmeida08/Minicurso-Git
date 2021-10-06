@@ -1,4 +1,6 @@
-import sys
-import Fibonacci
+#Author: João Pedro
 
-print(Fibonacci.fib((int)(sys.argv[1])))
+import sys
+import fibonacci
+
+print(fibonacci.fib((int)(sys.argv[1])))
